@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Time taken to complete the app
+
+It took me around 15mins - 20mins to plan the architechture and flow.
+Took another 1 hour to create all the components and use websockets
+Reading about websockets took 15-20mins
+CSS took around 1 hour + 
+
+In total around 3 hours.
